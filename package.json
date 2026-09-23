@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/luuizaribass/back-end/issues"
   },
-  "homepage": "https://github.com/luuizaribass/back-end#readme"
+  "homepage": "https://github.com/luuizaribass/back-end#readme",
+  "dependencies": {
+    "@prisma/client": "^7.10.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "prisma": "^8.0.0-rc.15"
+  }
 }
